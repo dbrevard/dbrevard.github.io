@@ -9,3 +9,12 @@ header li {
     display: inline-block;
     text-align: center;
 }
+
+body {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+footer {
+    po
+}
